@@ -1,1 +1,10 @@
 Pyhton is case sensitive
+String is a piece of text, surrounded by quotation marks
+Integers are whole numbers that can be positive, negative, or zero. That means no fractional component. Like 2,5,130 etc...
+A float in Python is a number that can have a fractional part, such as 3.14 or -0.5.
+# Concatenating two strings using the + operator: first_string = "Hello, "
+                                                  second_string = "world!"
+                                                  result = first_string + second_string
+                                                  print(result)  # Output: Hello, world!
+type() to find out what kind of data
+int() to convert a string to an integer
