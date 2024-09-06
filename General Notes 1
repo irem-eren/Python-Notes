@@ -8,3 +8,4 @@ A float in Python is a number that can have a fractional part, such as 3.14 or -
                                                   print(result)  # Output: Hello, world!
 type() to find out what kind of data
 int() to convert a string to an integer
+Boolean data type has two values: True False
