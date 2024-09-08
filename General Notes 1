@@ -12,3 +12,9 @@ Boolean data type has two values: True False
 iteration=loop, step by step instructions=algorithms
 for looping, an example: for i in range(100):
   print("Hello")
+if-else statements example:
+temperature = 40
+if temperature > 42:
+  print("High temperature")
+else:
+  print("No fever")
