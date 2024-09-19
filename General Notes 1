@@ -18,3 +18,4 @@ if temperature > 42:
   print("High temperature")
 else:
   print("No fever")
+to create a list, add square brackets. there needs to be commas between the items.
