@@ -20,3 +20,4 @@ else:
   print("No fever")
 to create a list, add square brackets. there needs to be commas between the items.
 index starts from 0 in python
+values in a list can be changed
